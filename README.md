@@ -1,2 +1,2 @@
-# react-tic-tac-toe-hooks
+# react-tic-tac-toe
 React Tic Tac Toe Game 
